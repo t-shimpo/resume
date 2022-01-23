@@ -49,7 +49,7 @@
 
 使用技術：Ruby / Ruby on Rails / Typescript / React / MobX  / HTML / SCSS
 
-#### 「SHEbeauty」の会員向けページの開発
+#### 「SHEbeauty」・「SHEmoney」の会員向けページの開発
 担当：サーバーサイド、フロントエンドの開発
 
 - React Hook Form を使用したフォームの開発
