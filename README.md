@@ -53,7 +53,7 @@
 担当：サーバーサイド、フロントエンドの開発
 
 - React Hook Form を使用したフォームの開発
-- 入力された項目の平均を計算し表示する機能のバックエンド及びフロントエンドの開発
+- 入力された項目の平均を計算し表示する機能全般の開発
 - 収支の登録フォーム・編集機能全般の開発
 
 使用技術：Ruby / Ruby on Rails / GraphQL / Typescript / React / Next.js / Tailwind CSS
