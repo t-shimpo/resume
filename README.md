@@ -4,6 +4,7 @@
 |---|-----|
 |Name|真保 拓朗 (Takuro Shimpo) |
 |Twitter|[@zanji439](https://twitter.com/zanji439)|
+|LinkedIn|[@takuroshimpo](https://www.linkedin.com/in/takuroshimpo)|
 |YOUTRUST|[@shimpo](https://youtrust.jp/users/shimpo)|
 |Wantedly|[@shimpo_takuro](https://www.wantedly.com/id/shimpo_takuro)|
 |Github|[@t-shimpo](https://github.com/t-shimpo)|
