@@ -14,6 +14,7 @@
 ### 言語
 - Ruby
 - Typescript
+- Go
 
 ### フレームワーク
 - Ruby on Rails
