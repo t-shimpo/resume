@@ -7,6 +7,7 @@
 |LinkedIn|[@takuroshimpo](https://www.linkedin.com/in/takuroshimpo)|
 |YOUTRUST|[@shimpo](https://youtrust.jp/users/shimpo)|
 |Wantedly|[@shimpo_takuro](https://www.wantedly.com/id/shimpo_takuro)|
+|Zenn|[@shimpo](https://zenn.dev/shimpo)|
 |Github|[@t-shimpo](https://github.com/t-shimpo)|
 
 ## スキル
